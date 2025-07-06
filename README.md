@@ -1,0 +1,1 @@
+# anki-english-card-generator
